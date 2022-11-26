@@ -14,3 +14,11 @@ footer {
 .btn {
   display: none !important;
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+   :root {
+       --body-bg: #000000;
+       --body-color: #FFFFFF;
+   }
+}
