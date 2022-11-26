@@ -15,8 +15,7 @@
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkitny&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="parkitny" /></p>
-
+<p align="center">&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=parkitny&theme=merko" alt="parkitny" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkitny&theme=highcontrast" alt="parkitny" /></p>
 
 <!--START_SECTION:waka-->
